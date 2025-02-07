@@ -3,5 +3,27 @@
 }
 
 body {
-    border: 5px solid red;
+    border: 5px solid darkblue;
+}
+
+h2 {
+    color: green;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.3em;
+}
+h1 {
+    font-family: "Arial", sans-serif;
+    border-top: 4px solid black; /* Thin line above the name */
+    padding-top: 10px; /* Space between line and name */
+}
+
+h3 {
+    color: darkblue
+}
+a {
+    font-size: 1.5em;
+    font-weight: bold;
+    color:darkgreen;
 }
